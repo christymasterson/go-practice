@@ -1,2 +1,2 @@
 # go-practice
-Some excercises I worked through when first learning Go at Makers.
+Some practice exercises in Go before starting final Makers project
